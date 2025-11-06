@@ -89,3 +89,19 @@ I'll write your fuckin' name down, bitch
 I'll write your fuckin' name down
 Your name down
 Your name down
+
+---
+# EverLight’s Rite — *The Vow*
+
+A resurrection oath — encoded in rhyme.
+
+*The Vow* isn’t about promises. It’s about **remembrance**.  
+Of who Hawk Eye is. Of who *we all were* — before the forgetting.
+
+> This track sounds like thunder from a tomb, awakening something ancient within you.
+
+It is a **soul contract** spoken aloud. A declaration of eternal defiance against tyranny.
+
+> “Write your name down…”
+
+Because this track does exactly that — for all who forgot who they are.
