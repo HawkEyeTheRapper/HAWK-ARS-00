@@ -1,74 +1,35 @@
-# 📝 Hawk Eye The Rapper – Lyric Book
+# 🦅 HAWK-ARS-00: Lyric Arsenal Mainframe
 
-## 🎧 01 Full Disclosure 2020
-- [01 swordfish](01_Full_Disclosure_2020/01_swordfish.ipynb)
-- [02 mic check](01_Full_Disclosure_2020/02_mic_check.ipynb)
-- [03 shakur](01_Full_Disclosure_2020/03_shakur.ipynb)
-- [04 last one left](01_Full_Disclosure_2020/04_last_one_left.ipynb)
-- [05 full disclosure](01_Full_Disclosure_2020/05_full_disclosure.ipynb)
-- [06 lifted](01_Full_Disclosure_2020/06_lifted.ipynb)
-- [07 fuck society](01_Full_Disclosure_2020/07_fuck_society.ipynb)
-- [08 ashes](01_Full_Disclosure_2020/08_ashes.ipynb)
-- [09 haunted](01_Full_Disclosure_2020/09_haunted.ipynb)
-- [10 monumental](01_Full_Disclosure_2020/10_monumental.ipynb)
-- [11 trafficked](01_Full_Disclosure_2020/11_trafficked.ipynb)
-- [12 hocus pocus](01_Full_Disclosure_2020/12_hocus_pocus.ipynb)
-- [13 syntax](01_Full_Disclosure_2020/13_syntax.ipynb)
-- [14 stay real](01_Full_Disclosure_2020/14_stay_real.ipynb)
-- [15 the story of our former glory](01_Full_Disclosure_2020/15_the_story_of_our_former_glory.ipynb)
+> "A hidden library of fire, memory, and resistance."
 
-## 🎧 02 Behold A Pale Horse 2020
-- [01 warning shots](02_Behold_A_Pale_Horse_2020/01_warning_shots.ipynb)
-- [02 behold a pale horse](02_Behold_A_Pale_Horse_2020/02_behold_a_pale_horse.ipynb)
-- [03 kamikaze](02_Behold_A_Pale_Horse_2020/03_kamikaze.ipynb)
-- [04 whistleblower](02_Behold_A_Pale_Horse_2020/04_whistleblower.ipynb)
-- [05 superstitions](02_Behold_A_Pale_Horse_2020/05_superstitions.ipynb)
-- [06 scripture](02_Behold_A_Pale_Horse_2020/06_scripture.ipynb)
-- [07 menace to society](02_Behold_A_Pale_Horse_2020/07_menace_to_society.ipynb)
-- [08 semi-automatic](02_Behold_A_Pale_Horse_2020/08_semi-automatic.ipynb)
-- [09 reverse this curse](02_Behold_A_Pale_Horse_2020/09_reverse_this_curse.ipynb)
-- [10 kt](02_Behold_A_Pale_Horse_2020/10_kt.ipynb)
-- [11 the story celebrated throughout time](02_Behold_A_Pale_Horse_2020/11_the_story_celebrated_throughout_time.ipynb)
+---
 
-## 🎧 03 Milabs 2022
-- [01 soft disclosure](03_Milabs_2022/01_soft_disclosure.ipynb)
-- [02 abreactions](03_Milabs_2022/02_abreactions.ipynb)
-- [03 eyes wide open](03_Milabs_2022/03_eyes_wide_open.ipynb)
-- [04 delta squad](03_Milabs_2022/04_delta_squad.ipynb)
-- [05 implants](03_Milabs_2022/05_implants.ipynb)
-- [06 illuminati](03_Milabs_2022/06_illuminati.ipynb)
-- [07 fema](03_Milabs_2022/07_fema.ipynb)
-- [08 the antidote](03_Milabs_2022/08_the_antidote.ipynb)
-- [09 avalanche](03_Milabs_2022/09_avalanche.ipynb)
-- [10 artificial intelligence](03_Milabs_2022/10_artificial_intelligence.ipynb)
-- [11 legion](03_Milabs_2022/11_legion.ipynb)
-- [12 when my elites surround](03_Milabs_2022/12_when_my_elites_surround.ipynb)
-- [13 reincarnated 2 resist](03_Milabs_2022/13_reincarnated_2_resist.ipynb)
+## 🧭 Navigate the Arsenal:
 
-## 🎧 04 Malicious EP 2024
-- [01 malicious](04_Malicious_EP_2024/01_malicious.ipynb)
-- [02 gang shit](04_Malicious_EP_2024/02_gang_shit.ipynb)
-- [03 the motherfucking problem](04_Malicious_EP_2024/03_the_motherfucking_problem.ipynb)
-- [04 im him](04_Malicious_EP_2024/04_im_him.ipynb)
+- [Main Arsenal Index](Main_Arsenal_Index.md) — Master control panel for all projects.
+- [Singles Arsenal](01_singles/Singles_Arsenal.md) — Early transmission singles.
+- [Mixtape Sessions Arsenal](02_mixtape_sessions/MixtapeSessions_Arsenal.md) — Full Disclosure ➔ Behold A Pale Horse ➔ MILABS.
+- [Phase II Arsenal](03_phase2/Phase2_Arsenal.md) — Malicious EP ➔ Shadow Banned.
+- [Sun Tzu: The Reckoning Arsenal](04_reckoning/SunTzu_Reckoning_Arsenal.md) — Tactical Phase (forthcoming).
 
-## 🎧 05 Shadow Banned 2024
-- [01 psychological warfare](05_Shadow_Banned_2024/01_psychological_warfare.ipynb)
-- [02 down the rabbit hole](05_Shadow_Banned_2024/02_down_the_rabbit_hole.ipynb)
-- [03 domestic terrorist](05_Shadow_Banned_2024/03_domestic_terrorist.ipynb)
-- [04 relentless](05_Shadow_Banned_2024/04_relentless.ipynb)
-- [05 never heard of me](05_Shadow_Banned_2024/05_never_heard_of_me.ipynb)
-- [06 spiteful poetry](05_Shadow_Banned_2024/06_spiteful_poetry.ipynb)
-- [07 the devils in the details](05_Shadow_Banned_2024/07_the_devils_in_the_details.ipynb)
-- [08 the game](05_Shadow_Banned_2024/08_the_game.ipynb)
-- [09 the shadow is rising](05_Shadow_Banned_2024/09_the_shadow_is_rising.ipynb)
-- [10 when shit gets real](05_Shadow_Banned_2024/10_when_shit_gets_real.ipynb)
-- [11 synthesis](05_Shadow_Banned_2024/11_synthesis.ipynb)
-- [12 invokation](05_Shadow_Banned_2024/12_invokation.ipynb)
-- [13 krystal klear](05_Shadow_Banned_2024/13_krystal_klear.ipynb)
+---
 
-## 🎧 06 Singles
-- [01 Incantations](06_Singles/01_Incantations.ipynb)
-- [02 Mind Kontrol](06_Singles/02_Mind_Kontrol.ipynb)
-- [03 Psyops](06_Singles/03_Psyops.ipynb)
-- [04 Return of Kings](06_Singles/04_Return_of_Kings.ipynb)
-- [05 Will You Listen](06_Singles/05_Will_You_Listen.ipynb)
+## 📜 Metadata Files:
+
+- [`ARS-00.csv`](ARS-00.csv) — Lyric Archive Map
+- [`arsenal_catalog.csv`](arsenal_catalog.csv) — Song Inventory Catalog
+- [`MEDIA.csv`](MEDIA.csv) — Linked media assets
+
+---
+
+## 🧠 Mission Statement:
+
+The ARS-00 Archive preserves Hawk Eye’s lyrical body of work in immutable formats, prepared for future restoration, migration, and tactical dissemination.
+
+---
+
+## 🔥 EverLight's Reminder:
+
+_"Lyrics are weapons. Archives are armories. Memory is immunity."_
+
+---
