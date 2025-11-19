@@ -10,10 +10,10 @@ Each single serves as a self-contained ritual — an experiment, a weapon, a tra
 
 | Track | Title | Link |
 |:-----|:------|:-----|
-| 01 | Return of Kings | [01_return_of_kings.md](01_return_of_kings.md) |
-| 02 | FEMA | [02_fema.md](02_fema.md) |
-| 03 | Politicians | [03_politicians.md](03_politicians.md) |
-| 04 | Incantations | [04_incantations.md](04_incantations.md) |
+| 01 | Return of Kings | [01_return_of_kings.md](/01_return_of_kings.md) |
+| 02 | FEMA | [02_fema.md](/02_fema.md) |
+| 03 | Politicians | [03_politicians.md](/03_politicians.md) |
+| 04 | Incantations | [04_incantations.md](/04_incantations.md) |
 
 ---
 
